@@ -15,4 +15,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Credits
 
-Thanks [Sashank](https://github.com/sashankvisweshwaran) for creating dart library for ScooopML
+Thanks [Sashank](https://github.com/sashankvisweshwaran) for creating dart library for ScoopML
