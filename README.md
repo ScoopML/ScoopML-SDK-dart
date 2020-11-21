@@ -1,4 +1,5 @@
-# scoopml
+# scoopml-SDK-dart
+
 
 Flutter package to interface with ScoopML backend
 
